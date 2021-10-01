@@ -391,7 +391,7 @@
    left: 115px;
    width: 200px;
    color: rgb(102, 47, 134);
-   
+   cursor: pointer;
 }
 #date3{
     margin: 20px;
